@@ -1,0 +1,44 @@
+﻿FormatVersion: 7
+Name: "Overlays 1"
+Script: "Overlays"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  5f6f6e36a5e54b559303ad5ad5589a79:
+    Name: "LensFlare"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  1cf149b904244dfba9930da37453081e:
+    Name: "Particles Back"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  8fe945dadfa44cc79ac974d0328da676:
+    Name: "Highlight"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  4233a8b95f8e42589b7e4281d5af7230:
+    Name: "Gradient"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  3a0cb00ca3974d36a2493f68e1257f95:
+    Name: "Grid"
+    OsbLayer: Overlay
+    DiffSpecific: No
+    Visible: Yes
+  14dd6a2fa4a7445c98d649bf9b47ebd0:
+    Name: "Particles Front"
+    OsbLayer: Overlay
+    DiffSpecific: No
+    Visible: Yes
+  3b1879f07dad483e8e38b73a5bae2b2e:
+    Name: "Vignette"
+    OsbLayer: Overlay
+    DiffSpecific: No
+    Visible: Yes

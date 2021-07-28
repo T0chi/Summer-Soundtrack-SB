@@ -1,0 +1,24 @@
+﻿FormatVersion: 7
+Name: "Backgrounds 1"
+Script: "Backgrounds"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  008d9bb2a92548ce9e5f464c19ffae66:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c847e016754443458712c80a0840942b:
+    Name: "Overlays"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  89994c140e2442f4985098cc6ff1d5fa:
+    Name: "Dark Overlay"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
